@@ -1,4 +1,6 @@
-## 👋 Hi, I'm Mert!  [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)]([https://medium.com/your-medium-profile](https://medium.com/@mert7ziya))  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/mert-ziya-a77ba9194/))  
+## 👋 Hi, I'm Mert!
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mert7ziya)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-ziya-a77ba9194/)
 
 
 I am currently working on enhancing my IOS Development skills 
