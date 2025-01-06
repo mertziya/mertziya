@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Mert!
+## 👋 Hi, There
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mert7ziya)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-ziya-a77ba9194/)
 
