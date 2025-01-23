@@ -1,4 +1,4 @@
-👋
+# 👋
 
 
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white&labelColor=black)](https://www.linkedin.com/in/mert-ziya-a77ba9194/)
